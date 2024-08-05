@@ -1,5 +1,5 @@
 
-# 지지직(JiJiJik)에 오신 것을 환영합니다!
+# 지지직(JiJiJig)에 오신 것을 환영합니다!
 <img src="https://github.com/jijijig/.github/assets/97311614/3545b533-3cd5-4fb3-95dd-478dc6e7e295" width="300" height="300">
 
 ## 저희를 소개합니다.
