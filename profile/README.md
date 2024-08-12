@@ -1,7 +1,6 @@
 
 # 알법사(Albeobsa)에 오신 것을 환영합니다!
 ![Banner](https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09)
-<div align="center" style="border: 1px solid">
 
 ## 📱 API
 * [Swagger에서 확인하기](https://albeobsa.duckdns.org/swagger-ui/index.html)
