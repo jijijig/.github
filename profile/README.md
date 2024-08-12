@@ -1,7 +1,7 @@
 
 # 알법사(Albeobsa)에 오신 것을 환영합니다!
 <div align="center">
-  <img width="1000" alt="Albeobsa" src="https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09">
+  <img width="800" alt="Albeobsa" src="https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09">
 </div>
 
 ## 📱 API
