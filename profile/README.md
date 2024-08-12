@@ -2,7 +2,7 @@
   <img width="500" alt="Albeobsa" src="https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09">
 <a>
 
-## 🔥 알(뜰마)법사에 오신 것을 환영합니다.
+## 🔥 알(뜰마)법사 소개
 
 <br/><br/>
 
