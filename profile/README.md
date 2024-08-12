@@ -28,6 +28,8 @@
   <img width="710" alt="ERD" src="https://github.com/user-attachments/assets/5d7bde23-6eff-4700-878f-65bbe7edb59d">
 </div>
 
+## 🖥️ Preview
+
 ## 🤝 Team Albeobsa
 |[이현우](https://github.com/LeeHueeng)|[최민우](https://github.com/chaiminwoo0223)|[윤지원](https://github.com/jw0613)|
 |:---:|:---:|:---:|
