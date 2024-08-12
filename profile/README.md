@@ -1,13 +1,14 @@
 
-# 지지직(JiJiJig)에 오신 것을 환영합니다!
-<img src="https://github.com/jijijig/.github/assets/97311614/3545b533-3cd5-4fb3-95dd-478dc6e7e295" width="300" height="300">
+# 알법사(Albeobsa)에 오신 것을 환영합니다!
+![Banner](https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09)
+<div align="center" style="border: 1px solid">
 
 ## 📱 API
-* [Swagger에서 확인하기](http://api-skhumeet.duckdns.org/swagger-ui/index.html)
+* [Swagger에서 확인하기](https://albeobsa.duckdns.org/swagger-ui/index.html)
 <br/><br/>
 
 ## 🎨 Design
-* [Figma에서 확인하기](https://www.figma.com/design/LqCxurXwPuo5vhieSZVm5f/%EC%95%8C(%EB%9C%B0%EB%A7%88)%EB%B2%95%EC%82%AC?node-id=0-1&t=1URkkzmsap6KABxf-0)
+* [Figma에서 확인하기](https://www.figma.com/file/uFcTbGO4poLZEG6Pg2whdP/SkhuMeet?node-id=0%3A1&t=PbaEyAmnjC1wKWQS-1)
 <br/><br/>
 
 ## 🗂 Repositories
