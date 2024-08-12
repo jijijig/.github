@@ -6,6 +6,10 @@
 * [Swagger에서 확인하기](http://api-skhumeet.duckdns.org/swagger-ui/index.html)
 <br/><br/>
 
+## 🎨 Design
+* [Figma에서 확인하기](https://www.figma.com/design/LqCxurXwPuo5vhieSZVm5f/%EC%95%8C(%EB%9C%B0%EB%A7%88)%EB%B2%95%EC%82%AC?node-id=0-1&t=1URkkzmsap6KABxf-0)
+<br/><br/>
+
 ## 🗂 Repositories
 * [Frontend Repository](https://github.com/jijijig/albeobsa-Front)
 * [Backend Repository](https://github.com/jijijig/Albeobsa-Backend)
