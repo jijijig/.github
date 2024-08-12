@@ -2,6 +2,10 @@
 # 지지직(JiJiJig)에 오신 것을 환영합니다!
 <img src="https://github.com/jijijig/.github/assets/97311614/3545b533-3cd5-4fb3-95dd-478dc6e7e295" width="300" height="300">
 
+## 📱 API
+* [Swagger에서 확인하기](http://api-skhumeet.duckdns.org/swagger-ui/index.html)
+<br/><br/>
+
 ## 🗂 Repositories
 * [Frontend Repository](https://github.com/jijijig/albeobsa-Front)
 * [Backend Repository](https://github.com/jijijig/Albeobsa-Backend)
