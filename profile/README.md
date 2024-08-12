@@ -1,6 +1,6 @@
-<div align="center">
+<a href="https://albeobsa-front.vercel.app" target="_blank">
   <img width="500" alt="Albeobsa" src="https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09">
-</div>
+<a>
 
 ## 📱 API
 * [Swagger에서 확인하기](https://albeobsa.duckdns.org/swagger-ui/index.html)
