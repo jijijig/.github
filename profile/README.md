@@ -27,20 +27,16 @@
   * JWT
   * Docker
   * AWS EC2
-<br/>
 
 ## 📱 API
 * [Swagger에서 확인하기](https://albeobsa.duckdns.org/swagger-ui/index.html)
-<br/>
 
 ## 🎨 Design
 * [Figma에서 확인하기](https://www.figma.com/file/uFcTbGO4poLZEG6Pg2whdP/SkhuMeet?node-id=0%3A1&t=PbaEyAmnjC1wKWQS-1)
-<br/>
 
 ## 🗂 Repositories
 * [Frontend Repository](https://github.com/jijijig/albeobsa-Front)
 * [Backend Repository](https://github.com/jijijig/Albeobsa-Backend)
-<br/>
 
 ## 🛢 ERD
 <div align="center">
