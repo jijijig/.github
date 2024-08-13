@@ -22,7 +22,7 @@
   * QueryDSL
   * MySQL
   * Swagger
-  * **Selenium**
+  * Selenium
   * OAuth2
   * JWT
   * Docker
