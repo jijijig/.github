@@ -4,7 +4,7 @@
 
 ## 🔥 알(뜰마)법사에 오신 것을 환영합니다.
 알(뜰마)법사는 고물가 시대에 소비자들의 현명한 소비를 돕기 위해 탄생한 서비스입니다. 마법처럼 간편하게 사용자가 원하는 최저가 상품을 찾아줍니다.
-<br/><br/>
+<br/>
 
 ## 🛠 Tech Stack
 * **Frontend**
@@ -27,20 +27,20 @@
   * JWT
   * Docker
   * AWS EC2
-<br/><br/>
+<br/>
 
 ## 📱 API
 * [Swagger에서 확인하기](https://albeobsa.duckdns.org/swagger-ui/index.html)
-<br/><br/>
+<br/>
 
 ## 🎨 Design
 * [Figma에서 확인하기](https://www.figma.com/file/uFcTbGO4poLZEG6Pg2whdP/SkhuMeet?node-id=0%3A1&t=PbaEyAmnjC1wKWQS-1)
-<br/><br/>
+<br/>
 
 ## 🗂 Repositories
 * [Frontend Repository](https://github.com/jijijig/albeobsa-Front)
 * [Backend Repository](https://github.com/jijijig/Albeobsa-Backend)
-<br/><br/>
+<br/>
 
 ## 🛢 ERD
 <div align="center">
