@@ -29,6 +29,7 @@
 </div>
 
 ## 🖥️ Preview
+|:---:|:---:|:---:|
 |메인페이지|핫딜|랭킹|
 |<img src="https://github.com/user-attachments/assets/c7de02a6-0329-4e23-8843-addb34d2eee7">|<img src="https://github.com/user-attachments/assets/75f59038-71fa-4dc6-a5eb-a29f6085a5e7">|<img src="https://github.com/user-attachments/assets/d74555c3-429a-458d-b9cd-3eebf1694dc7">|
 |검색|커뮤니티|작성|
