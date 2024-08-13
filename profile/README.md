@@ -8,25 +8,25 @@
 
 ## 🛠 Tech Stack
 * **Frontend**
-* JavaScript
-* TypeScript
-* Next.js
-* React
-* Axios
-* Vercel
+  * JavaScript
+  * TypeScript
+  * Next.js
+  * React
+  * Axios
+  * Vercel
 * **Backend**
-* Java
-* Spring Boot
-* Spring Data JPA
-* Spring Security
-* QueryDSL
-* MySQL
-* Swagger
-* Selenium
-* OAuth2
-* JWT
-* Docker
-* AWS EC2
+  * Java
+  * Spring Boot
+  * Spring Data JPA
+  * Spring Security
+  * QueryDSL
+  * MySQL
+  * Swagger
+  * Selenium
+  * OAuth2
+  * JWT
+  * Docker
+  * AWS EC2
 <br/><br/>
 
 ## 📱 API
