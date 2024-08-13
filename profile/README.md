@@ -2,12 +2,31 @@
   <img width="500" alt="Albeobsa" src="https://github.com/user-attachments/assets/060052c6-1e31-40d6-acf4-a75579eb6e09">
 <a>
 
-## 🔥 알(뜰마)법사 소개
-
+## 🔥 알(뜰마)법사에 오신 것을 환영합니다.
+알(뜰마)법사는 고물가 시대에 소비자들의 현명한 소비를 돕기 위해 탄생한 서비스입니다. 마법처럼 간편하게 사용자가 원하는 최저가 상품을 찾아줍니다.
 <br/><br/>
 
 ## 🛠 Tech Stack
-![TechStack]()
+* **Frontend**
+* JavaScript
+* TypeScript
+* Next.js
+* React
+* Axios
+* Vercel
+* **Backend**
+* Java
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* QueryDSL
+* MySQL
+* Swagger
+* Selenium
+* OAuth2
+* JWT
+* Docker
+* AWS EC2
 <br/><br/>
 
 ## 📱 API
